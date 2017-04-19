@@ -2,6 +2,7 @@
     "compilerOptions": {
         "charset": "utf-8",
         "noImplicitAny": true,
-        "sourceMap": true
+        "sourceMap": true,
+        "target": "es5"
     }
 }
